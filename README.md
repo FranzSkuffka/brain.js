@@ -1,4 +1,4 @@
-<img src="logo.svg" alt="Logo" style="width: 200px;"/>
+<img src="http://brainjs.com/logo.svg" alt="Logo" style="width: 200px;"/>
 
 # brain
 
